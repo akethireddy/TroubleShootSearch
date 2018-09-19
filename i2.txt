@@ -1,0 +1,4 @@
+CD drive access
+Should be the booting problem
+HARD DISK corruption
+Internet disconnected, multiple connections
